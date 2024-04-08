@@ -1,1 +1,1 @@
-The beginning of javascript
+This is the beginning of Javascript.
